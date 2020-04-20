@@ -1,16 +1,11 @@
 {
-  "categories": [
+  "posts": [
     {
       "id": 1,
-      "title": "Breakfast"
-    },
-    {
-      "id": 2,
-      "title": "Salads"
-    },
-    {
-      "id": 3,
-      "title": "Sides"
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
