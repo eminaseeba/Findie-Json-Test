@@ -3,5 +3,8 @@
     { "id": 1, "title": "Breakfast" },
     { "id": 2, "title": "Sides" },
     { "id": 3, "title": "Salads" }
+  ],
+  "menu":[
+    { "id": 1, "title": "Petit Plateu", "price": "12.5", "description": "Here goes some description"}
   ]
 }
