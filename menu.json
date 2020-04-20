@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Breakfast"
+    }
+    {
+      "id": 2,
+      "title": "Salads"
+    }
+    {
+      "id": 3,
+      "title": Sides"
+    }
+  ],
+  "menu": [
+  {
+    "name": "Petit plateu"
+  }
+   {
+    "name": "Turkey Swiss & Bacon on sprouted grain"
+  }
+   {
+    "name": "Färska Smögenräkor"
+  }
+  ]
+}
