@@ -3,7 +3,8 @@
     { "id": 1, "title": "Breakfast" },
     { "id": 2, "title": "Sides" },
     { "id": 3, "title": "Salads" },
-    { "id": 4, "title": "Fruit & Yogurt" }
+    { "id": 4, "title": "Fruit & Yogurt" },
+    { "id": 5, "title": "Baverages" }
   ],
   "menu":[
     { "id": 1, "title": "Food name 1", "price": "12.5", "description": "Here goes some description for food item 1"},
