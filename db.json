@@ -7,8 +7,8 @@
     { "id": 5, "title": "Baverages" }
   ],
   "menu":[
-    { "id": 1, "title": "Food name 1", "price": "12.5", "description": "Here goes some description for food item 1"},
-    { "id": 2, "title": "Food name 2", "price": "22.5", "description": "Here goes some description for food item 2"},
-    { "id": 3, "title": "Food name 3", "price": "32.5", "description": "Here goes some description for food item 3"}
+    { "id": 1, "title": "Food name 1", "price": "12.5", "description": "Here goes some description for food item 1", "image":"https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/foods-that-lower-cholesterol-1296x728-feature.jpg?w=1155&h=1528"},
+    { "id": 2, "title": "Food name 2", "price": "22.5", "description": "Here goes some description for food item 2", "image":"https://media-cdn.grubhub.com/image/upload/c_scale,w_1650/q_50,dpr_auto,f_auto,fl_lossy,c_crop,e_vibrance:20,g_center,h_900,w_800/v1534256595/Onboarding/Burger.jpg"},
+    { "id": 3, "title": "Food name 3", "price": "32.5", "description": "Here goes some description for food item 3", "image":"https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/chorizo-mozarella-gnocchi-bake-cropped.jpg"}
   ]
 }
