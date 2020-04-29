@@ -4,7 +4,10 @@
     { "id": 2, "title": "Sides" },
     { "id": 3, "title": "Salads" },
     { "id": 4, "title": "Fruit & Yogurt" },
-    { "id": 5, "title": "Baverages" }
+    { "id": 5, "title": "Baverages" },
+    { "id": 6, "title": "Sandwiches" },
+    { "id": 7, "title": "Oatmeal & Muesli" },
+    { "id": 8, "title": "Party platters" }
   ],
   "menu":[
     { "id": 1, "title": "Petit Plateau", "price": "9.50", "description": "H150g Slow-cooked, premium beef, potatoes, and carrots, served in a rich gravy. Served with dinner roll.Slow-cooked, premium beef, potatoes.Slow-cooked, premium beef, potatoes, and carrots.", "image":"https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/foods-that-lower-cholesterol-1296x728-feature.jpg?w=1155&h=1528"},
