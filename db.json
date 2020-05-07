@@ -1,21 +1,85 @@
-{
-  "categories": [
-    { "id": 1, "title": "Breakfast" },
-    { "id": 2, "title": "Sides" },
-    { "id": 3, "title": "Salads" },
-    { "id": 4, "title": "Fruit & Yogurt" },
-    { "id": 5, "title": "Baverages" },
-    { "id": 6, "title": "Sandwiches" },
-    { "id": 7, "title": "Oatmeal & Muesli" },
-    { "id": 8, "title": "Party platters" }
-  ],
-  
-  "menu":[
-    { "id": 1, "title": "Petit Plateau", "price": "9.50", "description": "H150g Slow-cooked, premium beef, potatoes, and carrots, served in a rich gravy. Served with dinner roll.Slow-cooked, premium beef, potatoes.Slow-cooked, premium beef, potatoes, and carrots.", "image":"https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/foods-that-lower-cholesterol-1296x728-feature.jpg?w=1155&h=1528"},
-    { "id": 2, "title": "Turkey Swiss & Bacon on sprouted grain", "price": "12", "description": "Slow-cooked, premium beef, potatoes, and carrots, served in a rich gravy. Served with dinner roll.Slow-cooked, premium beef, potatoes.Slow-cooked, premium beef, potatoes, and carrots.", "image":"https://media-cdn.grubhub.com/image/upload/c_scale,w_1650/q_50,dpr_auto,f_auto,fl_lossy,c_crop,e_vibrance:20,g_center,h_900,w_800/v1534256595/Onboarding/Burger.jpg"},
-    { "id": 3, "title": "Färska Smögenräkor", "price": "6", "description": "Slow-cooked, premium beef, potatoes, and carrots, served in a rich gravy. Served with dinner roll.Slow-cooked, premium beef, potatoes.Slow-cooked, premium beef, potatoes, and carrots.", "image":"https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/chorizo-mozarella-gnocchi-bake-cropped.jpg"},
-    { "id": 4, "title": "Kolgrillad Torskrygg Från Nordsjön", "price": "16", "description": "Slow-cooked, premium beef, potatoes, and carrots, served in a rich gravy. Served with dinner roll.Slow-cooked, premium beef, potatoes.Slow-cooked, premium beef, potatoes, and carrots.", "image":"https://www.diabetes.org/sites/default/files/styles/crop_large/public/2019-06/Healthy%20Food%20Made%20Easy%20-min.jpg"},
-    { "id": 5, "title": "Turkey Swiss & Bacon on sprouted grain", "price": "7", "description": "Slow-cooked, premium beef, potatoes, and carrots, served in a rich gravy. Served with dinner roll.Slow-cooked, premium beef, potatoes.Slow-cooked, premium beef, potatoes, and carrots.", "image":"https://us.123rf.com/450wm/champlifezy/champlifezy1708/champlifezy170800162/83929324-slice-of-pizza-cheese-crust-seafood-topping-sauce-with-bell-pepper-vegetables-delicious-tasty-fast-f.jpg?ver=6"}
-
-  ]
+{"data": [{"id": 1,
+"created_at": "2020-05-06 15:47:08",
+"updated_at": "2020-05-06 17:27:57",
+"profile_id": 9,
+"item_id": 2097,
+"price": 915,
+"description": "kaffe ingår",
+"name": "C. Vietnamesiska curry kycklinggryta med ris"
+},
+{"id": 2,
+"created_at": "2020-05-06 15:47:08",
+"updated_at": "2020-05-06 15:47:08",
+"profile_id": 9,
+"item_id": 36540,
+"price": 95,
+"description": "",
+"name": "D. Krispigt fläsk med sötsur sås"
+},
+{"id": 3,
+"created_at": "2020-05-06 15:47:08",
+"updated_at": "2020-05-06 15:47:08",
+"profile_id": 9,
+"item_id": 293,
+"price": 105,
+"description": "",
+"name": "W2. Wokade vetenudlar med ägg, kyckling, fläsk, räkor & grönsaker"
+},
+{"id": 5,
+"created_at": "2020-05-06 16:22:17",
+"updated_at": "2020-05-06 16:22:17",
+"profile_id": 9,
+"item_id": 297,
+"price": 120,
+"description": "Fläsk(röd)\r\nKyckling (gul)\r\nVegetariska (grön)\r\nRäkor (vit)",
+"name": "Dumplings  (12st)"
+},
+{"id": 10,
+"created_at": "2020-05-06 17:26:00",
+"updated_at": "2020-05-06 17:26:00",
+"profile_id": 9,
+"item_id": 292,
+"price": 105,
+"description": "",
+"name": "W1. Wokade risnudlar med ägg, räkor, kyckling, grönsaker & jordnötter"
+},
+{"id": 13,
+"created_at": "2020-05-06 17:28:14",
+"updated_at": "2020-05-06 17:28:14",
+"profile_id": 9,
+"item_id": 298,
+"price": 100,
+"description": "Fläsk(röd)\r\nKyckling (gul)\r\nVegetariska (grön)\r\nRäkor (vit)",
+"name": "Dumplings (9st)"
+},
+{"id": 14,
+"created_at": "2020-05-06 17:28:14",
+"updated_at": "2020-05-06 17:28:14",
+"profile_id": 9,
+"item_id": 300,
+"price": 75,
+"description": "Fläsk(röd)\r\nKyckling (gul)\r\nVegetariska (grön)\r\nRäkor (vit)",
+"name": "Dumplings (6st)"
+},
+{"id": 16,
+"created_at": "2020-05-06 17:49:58",
+"updated_at": "2020-05-06 17:49:58",
+"profile_id": 9,
+"item_id": 2097,
+"price": 95,
+"description": "kaffe ingår",
+"name": "C. Vietnamesiska curry kycklinggryta med ris"
+},
+{"id": 18,
+"created_at": "2020-05-06 17:50:53",
+"updated_at": "2020-05-06 17:50:53",
+"profile_id": 9,
+"item_id": 2418,
+"price": 99,
+"description": "",
+"name": "N5. Breda risnudlar med kyckling och grönsaker"
+}
+],
+"links": {"self": "link-value"
+}
 }
