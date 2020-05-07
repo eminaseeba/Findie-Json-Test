@@ -6,7 +6,7 @@
 "price": 915,
 "description": "kaffe ingår",
 "name": "C. Vietnamesiska curry kycklinggryta med ris",
-"category": "breakfast"
+"category": "Breakfast"
 },
 {"id": 2,
 "created_at": "2020-05-06 15:47:08",
@@ -16,7 +16,7 @@
 "price": 95,
 "description": "",
 "name": "D. Krispigt fläsk med sötsur sås",
- "category": "sides"
+ "category": "Sides"
 },
 {"id": 3,
 "created_at": "2020-05-06 15:47:08",
@@ -26,7 +26,7 @@
 "price": 105,
 "description": "",
 "name": "W2. Wokade vetenudlar med ägg, kyckling, fläsk, räkor & grönsaker",
- "category": "breakfast"
+ "category": "Breakfast"
 },
 {"id": 5,
 "created_at": "2020-05-06 16:22:17",
@@ -36,7 +36,7 @@
 "price": 120,
 "description": "Fläsk(röd)\r\nKyckling (gul)\r\nVegetariska (grön)\r\nRäkor (vit)",
 "name": "Dumplings  (12st)",
- "category": "salads"
+ "category": "Salads"
 },
 {"id": 10,
 "created_at": "2020-05-06 17:26:00",
@@ -46,7 +46,7 @@
 "price": 105,
 "description": "",
 "name": "W1. Wokade risnudlar med ägg, räkor, kyckling, grönsaker & jordnötter",
- "category": "breakfast"
+ "category": "Breakfast"
 },
 {"id": 13,
 "created_at": "2020-05-06 17:28:14",
@@ -56,7 +56,7 @@
 "price": 100,
 "description": "Fläsk(röd)\r\nKyckling (gul)\r\nVegetariska (grön)\r\nRäkor (vit)",
 "name": "Dumplings (9st)",
- "category": "sides"
+ "category": "Sides"
 },
 {"id": 14,
 "created_at": "2020-05-06 17:28:14",
@@ -76,7 +76,7 @@
 "price": 95,
 "description": "kaffe ingår",
 "name": "C. Vietnamesiska curry kycklinggryta med ris",
- "category": "breakfast"
+ "category": "Breakfast"
 },
 {"id": 18,
 "created_at": "2020-05-06 17:50:53",
@@ -86,7 +86,7 @@
 "price": 99,
 "description": "",
 "name": "N5. Breda risnudlar med kyckling och grönsaker",
- "category": "fruit"
+ "category": "Fruit"
 }
 ],
 "links": {"self": "link-value"
