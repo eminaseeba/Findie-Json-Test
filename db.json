@@ -5,7 +5,8 @@
 "item_id": 2097,
 "price": 915,
 "description": "kaffe ingår",
-"name": "C. Vietnamesiska curry kycklinggryta med ris"
+"name": "C. Vietnamesiska curry kycklinggryta med ris",
+"category": "breakfast"
 },
 {"id": 2,
 "created_at": "2020-05-06 15:47:08",
@@ -14,7 +15,8 @@
 "item_id": 36540,
 "price": 95,
 "description": "",
-"name": "D. Krispigt fläsk med sötsur sås"
+"name": "D. Krispigt fläsk med sötsur sås",
+ "category": "sides"
 },
 {"id": 3,
 "created_at": "2020-05-06 15:47:08",
@@ -24,6 +26,7 @@
 "price": 105,
 "description": "",
 "name": "W2. Wokade vetenudlar med ägg, kyckling, fläsk, räkor & grönsaker"
+ "category": "breakfast"
 },
 {"id": 5,
 "created_at": "2020-05-06 16:22:17",
@@ -32,7 +35,8 @@
 "item_id": 297,
 "price": 120,
 "description": "Fläsk(röd)\r\nKyckling (gul)\r\nVegetariska (grön)\r\nRäkor (vit)",
-"name": "Dumplings  (12st)"
+"name": "Dumplings  (12st)",
+ "category": "salads"
 },
 {"id": 10,
 "created_at": "2020-05-06 17:26:00",
@@ -41,7 +45,8 @@
 "item_id": 292,
 "price": 105,
 "description": "",
-"name": "W1. Wokade risnudlar med ägg, räkor, kyckling, grönsaker & jordnötter"
+"name": "W1. Wokade risnudlar med ägg, räkor, kyckling, grönsaker & jordnötter",
+ "category": "breakfast"
 },
 {"id": 13,
 "created_at": "2020-05-06 17:28:14",
@@ -50,7 +55,8 @@
 "item_id": 298,
 "price": 100,
 "description": "Fläsk(röd)\r\nKyckling (gul)\r\nVegetariska (grön)\r\nRäkor (vit)",
-"name": "Dumplings (9st)"
+"name": "Dumplings (9st)",
+ "category": "sides"
 },
 {"id": 14,
 "created_at": "2020-05-06 17:28:14",
@@ -59,7 +65,8 @@
 "item_id": 300,
 "price": 75,
 "description": "Fläsk(röd)\r\nKyckling (gul)\r\nVegetariska (grön)\r\nRäkor (vit)",
-"name": "Dumplings (6st)"
+"name": "Dumplings (6st)",
+ "category": "breakfast"
 },
 {"id": 16,
 "created_at": "2020-05-06 17:49:58",
@@ -68,7 +75,8 @@
 "item_id": 2097,
 "price": 95,
 "description": "kaffe ingår",
-"name": "C. Vietnamesiska curry kycklinggryta med ris"
+"name": "C. Vietnamesiska curry kycklinggryta med ris",
+ "category": "breakfast"
 },
 {"id": 18,
 "created_at": "2020-05-06 17:50:53",
@@ -77,7 +85,8 @@
 "item_id": 2418,
 "price": 99,
 "description": "",
-"name": "N5. Breda risnudlar med kyckling och grönsaker"
+"name": "N5. Breda risnudlar med kyckling och grönsaker",
+ "category": "fruit"
 }
 ],
 "links": {"self": "link-value"
