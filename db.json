@@ -16,7 +16,8 @@
 "price": 95,
 "description": "",
 "name": "D. Krispigt fläsk med sötsur sås",
- "category": "sides"
+ "category": "sides",
+ "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.healthline.com%2Fnutrition%2F20-most-weight-loss-friendly-foods&psig=AOvVaw1jpWOG0jMMIE8S85RVjEPD&ust=1588932778448000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNidx4HCoekCFQAAAAAdAAAAABAD"
 },
 {"id": 3,
 "created_at": "2020-05-06 15:47:08",
