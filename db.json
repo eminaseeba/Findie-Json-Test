@@ -52,7 +52,7 @@
 "description": "",
 "name": "W1. Wokade risnudlar med ägg, räkor, kyckling, grönsaker & jordnötter",
  "category": "breakfast",
-  "image" : ""
+  "image" : "https://s3.eu-central-1.amazonaws.com/mlinar.rerootdev.xyz/media/products/13006_l.jpg"
 },
 {"id": 13,
 "created_at": "2020-05-06 17:28:14",
@@ -63,7 +63,7 @@
 "description": "Fläsk(röd)\r\nKyckling (gul)\r\nVegetariska (grön)\r\nRäkor (vit)",
 "name": "Dumplings (9st)",
  "category": "sides",
-  "image" : ""
+  "image" : "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2018/05/tea-cakes-recipe.jpg"
 },
 {"id": 14,
 "created_at": "2020-05-06 17:28:14",
@@ -85,7 +85,7 @@
 "description": "kaffe ingår",
 "name": "C. Vietnamesiska curry kycklinggryta med ris",
  "category": "breakfast",
-  "image" : ""
+  "image" : "https://media-cdn.tripadvisor.com/media/photo-s/15/c5/a4/14/pepperoni-lovers.jpg"
 },
 {"id": 18,
 "created_at": "2020-05-06 17:50:53",
